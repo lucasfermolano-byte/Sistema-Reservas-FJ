@@ -31,7 +31,6 @@ sistema.crear_reserva(c1, asesoria, 1)
 # ERROR
 sistema.crear_reserva(c1, sala, -5)
 
-print("Sistema ejecutado correctamente")
 try:
     c3 = Cliente(3, "Carlos", "carlos@email.com")
     sistema.agregar_cliente(c3)
@@ -52,3 +51,4 @@ sistema.crear_reserva(c3, sala, 0)
 
 # Otra reserva válida
 sistema.crear_reserva(c1, equipo, 1)
+print("Sistema ejecutado correctamente")
