@@ -32,3 +32,23 @@ sistema.crear_reserva(c1, asesoria, 1)
 sistema.crear_reserva(c1, sala, -5)
 
 print("Sistema ejecutado correctamente")
+try:
+    c3 = Cliente(3, "Carlos", "carlos@email.com")
+    sistema.agregar_cliente(c3)
+
+    c4 = Cliente(4, "Laura", "lauraemail.com")  # inválido
+    sistema.agregar_cliente(c4)
+
+except Exception as e:
+    print("Error cliente:", e)
+
+# Más reservas
+sistema.crear_reserva(c3, sala, 4)
+sistema.crear_reserva(c3, equipo, 2)
+sistema.crear_reserva(c3, asesoria, 5)
+
+# Error de duración
+sistema.crear_reserva(c3, sala, 0)
+
+# Otra reserva válida
+sistema.crear_reserva(c1, equipo, 1)
