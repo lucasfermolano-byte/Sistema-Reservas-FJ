@@ -31,6 +31,6 @@ python src/main.py
 ```
 
 ## Autor
-Ingrid Paola Sanabria Perez3
+Ingrid Paola Sanabria Perez
 
 Lucas Fernando Molano Carvajal
