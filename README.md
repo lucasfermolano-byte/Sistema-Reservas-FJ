@@ -32,3 +32,4 @@ python src/main.py
 
 ## Autor
 Ingrid Paola Sanabria Perez
+Lucas Fernando Molano Carvajal
