@@ -1,5 +1,6 @@
+# Clase encargada de la persistencia de datos en archivos de texto.
 from datetime import datetime
-
+# Registra eventos y fallos en logs/logs.txt para auditoría del tutor.
 class Logger:
 
     @staticmethod
