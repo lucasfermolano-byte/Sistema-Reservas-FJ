@@ -1,1 +1,45 @@
 archivo de logs
+2026-05-10 23:45:27.938493 - Cliente agregado: Ana - ana@email.com
+2026-05-10 23:45:27.939374 - Reserva exitosa - Costo: 100
+2026-05-10 23:45:27.939701 - Reserva exitosa - Costo: 90
+2026-05-10 23:45:27.939945 - Reserva exitosa - Costo: 100
+2026-05-10 23:45:27.940149 - Error en reserva: Duraci�n inv�lida
+2026-05-10 23:45:27.940325 - Cliente agregado: Carlos - carlos@email.com
+2026-05-10 23:45:27.940618 - Reserva exitosa - Costo: 200
+2026-05-10 23:45:27.940822 - Reserva exitosa - Costo: 60
+2026-05-10 23:45:27.941011 - Reserva exitosa - Costo: 500
+2026-05-10 23:45:27.941189 - Error en reserva: Duraci�n inv�lida
+2026-05-10 23:45:27.941370 - Reserva exitosa - Costo: 30
+2026-05-10 23:45:30.991327 - Cliente agregado: Ana - ana@email.com
+2026-05-10 23:45:30.993338 - Reserva exitosa - Costo: 100
+2026-05-10 23:45:30.993691 - Reserva exitosa - Costo: 90
+2026-05-10 23:45:30.993999 - Reserva exitosa - Costo: 100
+2026-05-10 23:45:30.994229 - Error en reserva: Duraci�n inv�lida
+2026-05-10 23:45:30.994463 - Cliente agregado: Carlos - carlos@email.com
+2026-05-10 23:45:30.994770 - Reserva exitosa - Costo: 200
+2026-05-10 23:45:30.994996 - Reserva exitosa - Costo: 60
+2026-05-10 23:45:30.995194 - Reserva exitosa - Costo: 500
+2026-05-10 23:45:30.995374 - Error en reserva: Duraci�n inv�lida
+2026-05-10 23:45:30.995551 - Reserva exitosa - Costo: 30
+2026-05-11 01:20:36.425659 - Cliente agregado: CLIENTE [ID: 1] - Nombre: Ana - Email: ana@email.com
+2026-05-11 01:20:36.426148 - Reserva exitosa - Costo: 100
+2026-05-11 01:20:36.426659 - Reserva exitosa - Costo: 90
+2026-05-11 01:20:36.426864 - Reserva exitosa - Costo: 100
+2026-05-11 01:20:36.427054 - Error en reserva: Duraci�n inv�lida
+2026-05-11 01:20:36.427277 - Cliente agregado: CLIENTE [ID: 3] - Nombre: Carlos - Email: carlos@email.com
+2026-05-11 01:20:36.427683 - Reserva exitosa - Costo: 200
+2026-05-11 01:20:36.428009 - Reserva exitosa - Costo: 60
+2026-05-11 01:20:36.428221 - Reserva exitosa - Costo: 500
+2026-05-11 01:20:36.428457 - Error en reserva: Duraci�n inv�lida
+2026-05-11 01:20:36.428681 - Reserva exitosa - Costo: 30
+2026-05-11 01:24:29.775145 - Cliente agregado: CLIENTE [ID: 1] - Nombre: Ana - Email: ana@email.com
+2026-05-11 01:24:29.775628 - Reserva exitosa - Costo: 100
+2026-05-11 01:24:29.775841 - Reserva exitosa - Costo: 90
+2026-05-11 01:24:29.776023 - Reserva exitosa - Costo: 100
+2026-05-11 01:24:29.776205 - Error en reserva: Duraci�n inv�lida
+2026-05-11 01:24:29.776386 - Cliente agregado: CLIENTE [ID: 3] - Nombre: Carlos - Email: carlos@email.com
+2026-05-11 01:24:29.776664 - Reserva exitosa - Costo: 200
+2026-05-11 01:24:29.776859 - Reserva exitosa - Costo: 60
+2026-05-11 01:24:29.777039 - Reserva exitosa - Costo: 500
+2026-05-11 01:24:29.777218 - Error en reserva: Duraci�n inv�lida
+2026-05-11 01:24:29.777419 - Reserva exitosa - Costo: 30
