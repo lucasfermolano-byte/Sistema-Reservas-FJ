@@ -1,6 +1,6 @@
 from excepciones import ClienteInvalidoError
 
-class Cliente:
+class Cliente(EntidadBase):
 
     def __init__(self, id, nombre, email):
         self.id = id
