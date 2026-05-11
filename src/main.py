@@ -1,3 +1,4 @@
+# Punto de entrada de la aplicación.
 from cliente import Cliente
 from sistema import Sistema
 from servicios import ReservaSala, AlquilerEquipo, Asesoria
@@ -52,3 +53,4 @@ sistema.crear_reserva(c3, sala, 0)
 # Otra reserva válida
 sistema.crear_reserva(c1, equipo, 1)
 print("Sistema ejecutado correctamente")
+# Simula las 10 operaciones requeridas por la guía, demostrando robustez ante datos inválidos.
