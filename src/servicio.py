@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-class Servicio(ABC):
+class Servicio(EntidadBase, ABC)::
 
     def __init__(self, nombre, precio_base):
         self.nombre = nombre
